@@ -3,7 +3,7 @@ import { useEffect, useRef, useState } from "react";
 import { motion, useScroll, useTransform, useInView, animate, AnimatePresence } from "framer-motion";
 import {
   MapPin, Phone, Star, Stethoscope, Syringe, Scissors, FlaskConical,
-  Cpu, Bluetooth as Tooth, MessageCircle, Siren, Moon, Sun, ArrowUp, Menu, X,
+  Cpu, Smile, MessageCircle, Siren, Moon, Sun, ArrowUp, Menu, X,
   Mail, Clock, ChevronLeft, ChevronRight, PawPrint, Sparkles, Send
 } from "lucide-react";
 
