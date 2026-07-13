@@ -351,7 +351,7 @@ const SERVICES = [
   { icon: Scissors, title: "Sebészeti ellátás", desc: "Modern műtétek biztonságos altatással és utókezeléssel." },
   { icon: FlaskConical, title: "Laborvizsgálatok", desc: "Gyors, helyben elérhető vérkép és egyéb laboratóriumi tesztek." },
   { icon: Cpu, title: "Mikrochip beültetés", desc: "Fájdalommentes chippezés hivatalos regisztrációval." },
-  { icon: Tooth, title: "Fogászati kezelések", desc: "Ultrahangos fogkőeltávolítás és teljes szájhigiéniai kezelés." },
+  { icon: Smile, title: "Fogászati kezelések", desc: "Ultrahangos fogkőeltávolítás és teljes szájhigiéniai kezelés." },
   { icon: MessageCircle, title: "Tanácsadás", desc: "Táplálás, viselkedés, tartás — személyre szabott javaslatokkal." },
   { icon: Siren, title: "Sürgősségi ellátás", desc: "Gyors reagálás váratlan helyzetekben, telefonos konzultációval." },
 ];
