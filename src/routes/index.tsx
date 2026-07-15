@@ -358,7 +358,7 @@ const SERVICES = [
 
 function Services() {
   return (
-    <section id="szolgaltatasok" className="relative overflow-hidden py-28">
+    <section id="szolgaltatasok" className="bg-[#F2FBF5] py-24">
       <div className="pointer-events-none absolute inset-0 -z-10 bg-gradient-to-b from-transparent via-sage/5 to-transparent" />
       <div className="mx-auto max-w-7xl px-6">
         <div className="mx-auto max-w-2xl text-center">
