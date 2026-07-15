@@ -294,7 +294,7 @@ function InfoCards() {
 
 function About() {
   return (
-    <section id="rolunk" className="mx-auto max-w-7xl px-6 py-28">
+    <section id="rolunk" className="py-24 bg-[#F5FAFF]">
       <div className="grid items-center gap-14 lg:grid-cols-2">
         <motion.div
           initial={{ opacity: 0, x: -40 }}
